@@ -2,15 +2,9 @@
 
 An Algorithms course project 
 
-submitted by
 
-Kavya Kesavan
+submitted by                                                                                                                               Kavya Kesavan                                                                                                                         Sanjana Bhatt                                                                                                                               Idris Wishiwala                                                                                                                           Siddharth Aggarwal
 
-Sanjana Bhatt
-
-Idris Wishiwala
-
-Siddharth Aggarwal
 
 Programs:
 1. Find kth smallest in an array of n elements
