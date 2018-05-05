@@ -3,7 +3,10 @@
 An Algorithms course project 
 
 
-submitted by                                                                                                                               Kavya Kesavan                                                                                                                         Sanjana Bhatt                                                                                                                               Idris Wishiwala                                                                                                                           Siddharth Aggarwal
+Submitted by
+ Kavya Kesavan,
+  Sanjana Bhatt,
+   Idris Wishiwala,                                                                                                                             Siddharth Aggarwal
 
 
 Programs:
